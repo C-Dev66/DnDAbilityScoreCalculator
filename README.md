@@ -10,3 +10,4 @@ This is a console application is used to give DnD characters their stats at the 
 
 // Note: The CLR keeps track of all of the references to each object, and when the last reference disappears it marks it for removal. 
 //       But it might have other things to do right now, so the object could stick around for a few milliseconds—or even longer!
+//
